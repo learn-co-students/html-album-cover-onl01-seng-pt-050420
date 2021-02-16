@@ -1,7 +1,7 @@
 # HTML Album Cover
 
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10">
-
+ 
 ## Problem Statement
 
 Learning all the individual pieces that make up a web page is a necessary first
